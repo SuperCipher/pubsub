@@ -1,3 +1,6 @@
 [submodule "pubsub-smartcontract"]
 	path = pubsub-smartcontract
 	url = git@github.com:SuperCipher/pubsub-smartcontract.git
+[submodule "pubsub-webapp"]
+	path = pubsub-webapp
+	url = git@github.com:SuperCipher/pubsub-webapp.git
